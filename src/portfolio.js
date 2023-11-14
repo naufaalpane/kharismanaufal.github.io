@@ -20,13 +20,13 @@ const illustration = {
 };
 
 const greeting = {
-  username: "Saad Pasta",
+  username: "naufaalpane",
   title: "Hi all, I'm Naufal",
   subTitle: emoji(
-    "A passionate Fullstack Software Developer / Back end Engineer / Front end Engineer  🚀 having an experience of building Web and Mobile applications with intrest on pattern software design."
+    "A passionate Fullstack Software Developer / Back end Engineer / Front end Engineer 🧑‍💻 having an experience of building Web and Mobile applications with intrest on Pattern Software Design."
   ),
   resumeLink:
-    "https://drive.google.com/file/d/1ofFdKF_mqscH8WvXkSObnVvC9kK7Ldlu/view?usp=sharing", // Set to empty to hide the button
+    "https://drive.google.com/drive/folders/1eV0jyrWcX0_FFTRyTQ0bQ4jWnPn-mBex?usp=sharing", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
