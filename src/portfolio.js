@@ -248,50 +248,41 @@ const achievementSection = {
 
   achievementsCards: [
     {
-      title: "Google Code-In Finalist",
+      title: "Blockchain and API Development to Improve Relational Database Integrity and System Interoperability",
       subtitle:
-        "First Pakistani to be selected as Google Code-in Finalist from 4000 students from 77 different countries.",
-      image: require("./assets/images/codeInLogo.webp"),
-      imageAlt: "Google Code-In Logo",
+        "Thesis published on international paper: “Blockchain and API Development to Improve Relational Database Integrity and System Interoperability” (7th International Conference on Computer Science and Computational Intelligence 2022).",
+      image: require("./assets/images/procedia_international_paper.jpg"),
+      imageAlt: "International Paper Cover",
       footerLink: [
         {
-          name: "Certification",
-          url: "https://drive.google.com/file/d/0B7kazrtMwm5dYkVvNjdNWjNybWJrbndFSHpNY2NFV1p4YmU0/view?usp=sharing"
-        },
-        {
-          name: "Award Letter",
-          url: "https://drive.google.com/file/d/0B7kazrtMwm5dekxBTW5hQkg2WXUyR3QzQmR0VERiLXlGRVdF/view?usp=sharing"
-        },
-        {
-          name: "Google Code-in Blog",
-          url: "https://opensource.googleblog.com/2019/01/google-code-in-2018-winners.html"
+          name: "International Paper",
+          url: "https://www.sciencedirect.com/science/article/pii/S1877050922022001"
         }
       ]
     },
     {
-      title: "Google Assistant Action",
+      title: "DOKU Completion Certificate",
       subtitle:
-        "Developed a Google Assistant Action JavaScript Guru that is available on 2 Billion devices world wide.",
-      image: require("./assets/images/googleAssistantLogo.webp"),
-      imageAlt: "Google Assistant Action Logo",
+        "Participated in DOKU Acedemy bootcamp.",
+      image: require("./assets/images/DOKU_Academy_certification.jpeg"),
+      imageAlt: "DOKU Academy Completion Certificate",
       footerLink: [
         {
-          name: "View Google Assistant Action",
-          url: "https://assistant.google.com/services/a/uid/000000100ee688ee?hl=en"
+          name: "Certificate",
+          url: "https://www.linkedin.com/in/kharismanaufal/overlay/1635518431002/single-media-viewer/?profileId=ACoAADK7xO0BWHS0SOQNNwx3qg8kA6Sk8Fpmis0"
         }
       ]
     },
-
     {
-      title: "PWA Web App Developer",
-      subtitle: "Completed Certifcation from SMIT for PWA Web App Development",
-      image: require("./assets/images/pwaLogo.webp"),
-      imageAlt: "PWA Logo",
+      title: "EF Standard English Test 50",
+      subtitle:
+        "Participated on EF English Test 50 in July 14th 2021.",
+      image: require("./assets/images/EF_logo.png"),
+      imageAlt: "EF Logo",
       footerLink: [
-        {name: "Certification", url: ""},
         {
-          name: "Final Project",
-          url: "https://pakistan-olx-1.firebaseapp.com/"
+          name: "Certificate",
+          url: "https://www.efset.org/cert/Zc7Loz"
         }
       ]
     }
