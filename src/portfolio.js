@@ -170,30 +170,61 @@ const workExperiences = {
   display: true, //Set it to true to show workExperiences Section
   experience: [
     {
-      role: "Software Engineer",
-      company: "Facebook",
-      companylogo: require("./assets/images/facebookLogo.png"),
-      date: "June 2018 – Present",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      role: "Fullstack Engineer",
+      company: "3Dolphins AI",
+      companylogo: require("./assets/images/3Dolphins_logo.png"),
+      date: "June 2023 – Present",
+      desc: "Involved in developing 3Dolphins SRM Website Using Generative AI and 3Dolphins SRM Website",
       descBullets: [
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
+        "Handle the Frontend and Backend for Enhancements and Bug Fixing",
+        "Collaborating and Integrating 3Dolphins SRM Website using API",
+        "Ehancement and Bug Fixing for Web Development",
+        "Collaborate on developing 3Dolphin's Generative AI",
+        "Deploying System and Software to server",
+        "Handle data using ORM (Object-Relational Mapping)",
+        "Developed a java program to split big data into chunks"
       ]
     },
     {
-      role: "Front-End Developer",
-      company: "Quora",
-      companylogo: require("./assets/images/quoraLogo.png"),
-      date: "May 2017 – May 2018",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      role: "Backend Developer",
+      company: "DOKU",
+      companylogo: require("./assets/images/DOKU_logo.png"),
+      date: "October 2022 – Feb 2023",
+      desc: "Participate in DOKU Academy Program",
+      descBullets: [
+        "Collaborate to create transaction service using DOKU's payment gateway for capstone project",
+        "Developed a POS system mainly for backend use for mini project",
+        "Learned Java Springboot for API creation",
+        "Learned Docker for building my application locally",
+        "Learned AWS EC2 and Kubernetes for deployment",
+        "Learned Katalon for automation testing comprehensively",
+        "Learned soft skill (ex. communication, teamwork, leadership)"
+      ]
     },
     {
-      role: "Software Engineer Intern",
-      company: "Airbnb",
-      companylogo: require("./assets/images/airbnbLogo.png"),
-      date: "Jan 2015 – Sep 2015",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-    }
+      role: "Fullstack Engineer Intern",
+      company: "IDStar Cipta Teknologi",
+      companylogo: require("./assets/images/IDStar_logo.png"),
+      date: "September 2021 – February 2022",
+      desc: "Involved in developing PT Orbit Nasional Edukasi on ONE Talent Mobile Application",
+      descBullets: [
+        "Developing mobile application using Ionic Framework, with the base of AngularJS Framework to create new page and update existing pages for either new a feature or a new redesigned page based on UI/UX designer in Figma",
+        "Managed integration from backend to frontend using REST API with HTTP Client in Angular to instantiate HTTP Request Methods, and Ionic Events that is Subscribe to handle the data",
+        "Implementing logic for frontend use for example, making animations, create accordion (not available in older versions), render time, responsiveness"
+      ]
+    },
+    {
+      role: "Software Test Enginner Intern",
+      company: "WhiteOpen Teknologi",
+      companylogo: require("./assets/images/WhiteOpen_logo.webp"),
+      date: "February 2021 – June 2021",
+      desc: "Involved in PT TMIIN Toyota, PT Surya Mandiri Group E-POS, and PT Whiteopen Teknologi HR Help Desk project to Create and Execute",
+      descBullets: [
+        "Test Scripts on developing website for Manual Testing using Microsoft Excel",
+        "Test Scripts on developing website, for Automation Testing using Katalon Studio",
+        "Test Scripts on MySQL query for Manual Testing using Microsoft Excel",
+      ]
+    },
   ]
 };
 
