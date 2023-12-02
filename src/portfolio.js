@@ -47,14 +47,12 @@ const socialMediaLinks = {
 
 const skillsSection = {
   title: "What I do",
-  subTitle: "CRAZY FULL STACK DEVELOPER WHO WANTS TO EXPLORE EVERY TECH STACK",
+  subTitle: "FULL STACK DEVELOPER WHO LIKES TO EXPLORE EVERY TECH STACK",
   skills: [
+    emoji("⚡ Develop robust applications for your web and mobile platforms"),
+    emoji("⚡ Clean code enthusiast that likes to implement software design pattern"),
     emoji(
-      "⚡ Develop highly interactive Front end / User Interfaces for your web and mobile applications"
-    ),
-    emoji("⚡ Progressive Web Applications ( PWA ) in normal and SPA Stacks"),
-    emoji(
-      "⚡ Integration of third party services such as Firebase/ AWS / Digital Ocean"
+      "⚡ Integration of third party services such as Firebase/AWS"
     )
   ],
 
@@ -63,56 +61,56 @@ https://fontawesome.com/icons?d=gallery */
 
   softwareSkills: [
     {
-      skillName: "html-5",
-      fontAwesomeClassname: "fab fa-html5"
-    },
-    {
-      skillName: "css3",
-      fontAwesomeClassname: "fab fa-css3-alt"
-    },
-    {
-      skillName: "sass",
-      fontAwesomeClassname: "fab fa-sass"
+      skillName: "Java",
+      fontAwesomeClassname: "fab fa-java"
     },
     {
       skillName: "JavaScript",
       fontAwesomeClassname: "fab fa-js"
     },
     {
-      skillName: "reactjs",
-      fontAwesomeClassname: "fab fa-react"
-    },
-    {
-      skillName: "nodejs",
-      fontAwesomeClassname: "fab fa-node"
-    },
-    {
-      skillName: "swift",
-      fontAwesomeClassname: "fab fa-swift"
-    },
-    {
-      skillName: "npm",
-      fontAwesomeClassname: "fab fa-npm"
-    },
-    {
-      skillName: "sql-database",
-      fontAwesomeClassname: "fas fa-database"
-    },
-    {
-      skillName: "aws",
-      fontAwesomeClassname: "fab fa-aws"
-    },
-    {
-      skillName: "firebase",
-      fontAwesomeClassname: "fas fa-fire"
-    },
-    {
-      skillName: "python",
+      skillName: "Python",
       fontAwesomeClassname: "fab fa-python"
     },
     {
-      skillName: "docker",
+      skillName: "Dart",
+      fontAwesomeClassname: "fab fa-dart"
+    },
+    {
+      skillName: "Spring Boot",
+      fontAwesomeClassname: "fab fa-dart"
+    },
+    {
+      skillName: "ReactJS",
+      fontAwesomeClassname: "fab fa-react"
+    },
+    {
+      skillName: "Flutter",
+      fontAwesomeClassname: "fab fa-dart"
+    },
+    {
+      skillName: "MongoDB",
+      fontAwesomeClassname: "fab fa-dart"
+    },
+    {
+      skillName: "Firebase",
+      fontAwesomeClassname: "fab fa-dart"
+    },
+    {
+      skillName: "MySQL Database",
+      fontAwesomeClassname: "fas fa-database"
+    },
+    {
+      skillName: "PostgreSQL Database",
+      fontAwesomeClassname: "fab fa-dart"
+    },
+    {
+      skillName: "Docker",
       fontAwesomeClassname: "fab fa-docker"
+    },
+    {
+      skillName: "Katalon",
+      fontAwesomeClassname: "fab fa-dart"
     }
   ],
   display: true // Set false to hide this section, defaults to true
