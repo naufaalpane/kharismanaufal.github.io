@@ -19,13 +19,78 @@
   color: $subTitle;
 }
 
-.software-skill-inline > i:hover {
-  color: $skillsColor;
-}
 .software-skill-inline > p {
   color: $subTitle;
   font-size: 10px;
 }
 .software-skill-inline > i:hover ~ p {
   color: $skillsColor;
+}
+
+.icon-dart {
+  display: inline-block;
+  width: 42px;
+  height: 42px;
+  background: url('../../assets/images/dart.svg');
+  background-size: cover;
+}
+
+.icon-dart:hover {
+  fill: red;
+}
+
+.icon-springboot {
+  display: inline-block;
+  width: 42px;
+  height: 42px;
+  background: url('../../assets/images/springboot.svg');
+  background-size: cover;
+}
+
+.icon-flutter {
+  display: inline-block;
+  width: 42px;
+  height: 42px;
+  background: url('../../assets/images/flutter.svg');
+  background-size: cover;
+}
+
+.icon-mongodb {
+  display: inline-block;
+  width: 42px;
+  height: 42px;
+  background: url('../../assets/images/mongodb.svg');
+  background-size: cover;
+}
+
+.icon-firebase {
+  display: inline-block;
+  width: 42px;
+  height: 42px;
+  background: url('../../assets/images/firebase.svg');
+  background-size: cover;
+}
+
+.icon-mysql {
+  display: inline-block;
+  width: 42px;
+  height: 42px;
+  background: url('../../assets/images/mysql.svg');
+  background-size: cover;
+}
+
+.icon-postgresql {
+  display: inline-block;
+  width: 42px;
+  height: 42px;
+  background: url('../../assets/images/postgresql.svg');
+  background-size: cover;
+}
+
+.icon-katalon {
+  display: inline-block;
+  width: 42px;
+  height: 42px;
+  background: url('../../assets/images/katalon.svg');
+  background-size: cover;
 }

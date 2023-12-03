@@ -97,11 +97,11 @@ https://fontawesome.com/icons?d=gallery */
       fontAwesomeClassname: "fab fa-dart"
     },
     {
-      skillName: "MySQL Database",
-      fontAwesomeClassname: "fas fa-database"
+      skillName: "MySQL",
+      fontAwesomeClassname: "fas fa-mysql"
     },
     {
-      skillName: "PostgreSQL Database",
+      skillName: "PostgreSQL",
       fontAwesomeClassname: "fab fa-dart"
     },
     {
