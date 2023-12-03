@@ -179,7 +179,7 @@ const workExperiences = {
       role: "Fullstack Engineer",
       company: "3Dolphins AI",
       companylogo: require("./assets/images/3Dolphins_logo.png"),
-      date: "June 2023 – Present",
+      date: "Jun 2023 – Present",
       desc: "Involved in developing 3Dolphins SRM Website Using Generative AI and 3Dolphins SRM Website",
       descBullets: [
         "Handle the Frontend and Backend for Enhancements and Bug Fixing",
@@ -195,7 +195,7 @@ const workExperiences = {
       role: "Backend Developer",
       company: "DOKU",
       companylogo: require("./assets/images/DOKU_logo.png"),
-      date: "October 2022 – Feb 2023",
+      date: "Oct 2022 – Feb 2023",
       desc: "Participate in DOKU Academy Program",
       descBullets: [
         "Collaborate to create transaction service using DOKU's payment gateway for capstone project",
@@ -211,7 +211,7 @@ const workExperiences = {
       role: "Fullstack Engineer Intern",
       company: "IDStar Cipta Teknologi",
       companylogo: require("./assets/images/IDStar_logo.png"),
-      date: "September 2021 – February 2022",
+      date: "Sept 2021 – Feb 2022",
       desc: "Involved in developing PT Orbit Nasional Edukasi on ONE Talent Mobile Application",
       descBullets: [
         "Developing mobile application using Ionic Framework, with the base of AngularJS Framework to create new page and update existing pages for either new a feature or a new redesigned page based on UI/UX designer in Figma",
@@ -223,7 +223,7 @@ const workExperiences = {
       role: "Software Test Enginner Intern",
       company: "WhiteOpen Teknologi",
       companylogo: require("./assets/images/WhiteOpen_logo.webp"),
-      date: "February 2021 – June 2021",
+      date: "Feb 2021 – Jun 2021",
       desc: "Involved in PT TMIIN Toyota, PT Surya Mandiri Group E-POS, and PT Whiteopen Teknologi HR Help Desk project to Create and Execute",
       descBullets: [
         "Test Scripts on developing website for Manual Testing using Microsoft Excel",
